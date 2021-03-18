@@ -11,7 +11,7 @@ Face detection is used almost everywhere let it be Autonomous Driving (famous Te
 Here we are using OpenCV to detects face using Haar Cascade Classifier.
 
 # OpenCV
-![opencv-logo-1](https://user-images.githubusercontent.com/80860185/111618477-6e820f80-880a-11eb-9966-8018451bf106.jpg)
+![1_Cvwue5II1QjdXIhSPGkVUw](https://user-images.githubusercontent.com/80860185/111618726-be60d680-880a-11eb-8b46-1005a35f4f08.jpg)
 
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
 
